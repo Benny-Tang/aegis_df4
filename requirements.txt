@@ -14,7 +14,7 @@ pandas==3.0.5
 pydantic==2.13.5
 python-multipart==0.0.32
 requests==2.34.2
-scikit-learn==1.9.0
+scikit-learn==1.9.1
 statsmodels==0.15.0
 uvicorn[standard]==0.52.4
 xgboost==3.4.1
